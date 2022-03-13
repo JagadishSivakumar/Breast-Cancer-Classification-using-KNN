@@ -37,3 +37,4 @@ The distance is calculated using the similarity measures (such as EUCIidean or M
 - Outlier detection on large datasets
 
 
+View on Kaggle - [Wisconsin Breast Cancer Classification using KNN](https://www.kaggle.com/jagadish13/wisconsin-breast-cancer-classification-using-knn) 
